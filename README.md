@@ -31,7 +31,7 @@
 &nbsp;
 &nbsp;
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=rituraj1511&show_icons=true&theme=react" alt="rituraj1511" />
-<p><img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=rituraj1511&theme=react" alt="rituraj1511" /></p>
+
 
 </div>
 
